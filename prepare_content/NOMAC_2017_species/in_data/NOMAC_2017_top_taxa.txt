@@ -1,0 +1,10 @@
+scientific_name	rank	author	parent	classification
+Biota	Top
+Eukaryota	Empire	Chatton	Biota
+Prokaryota	Empire	Allsopp	Biota
+Bacteria	Kingdom	Cavalier-Smith	Prokaryota
+Chromista	Kingdom	Cavalier-Smith	Eukaryota
+Plantae	Kingdom	Haeckel	Eukaryota
+Protozoa	Kingdom	R.Owen	Eukaryota
+Fungi	Kingdom	T.L.Jahn & F.F.Jahn ex R.T.Moore	Eukaryota
+Eukaryota unassigned	Kingdom		Eukaryota
